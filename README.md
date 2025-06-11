@@ -17,22 +17,3 @@ Below are example outputs showcasing the model's smoke segmentation performance:
 
 2. **Smoke segmentation on a test video**  
    ![Sample Result 2](https://raw.githubusercontent.com/uyenvoaero/smoke_segmentation/main/output/smoke_2_output.gif)
-
-## Usage
-1. Clone the repository: `git clone https://github.com/uyenvoaero/smoke_segmentation.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Prepare dataset with images and masks in the specified directory structure.
-4. Run training: `python train.py`
-5. Perform inference: `python inference.py`
-
-## Requirements
-- Python 3.8+
-- TensorFlow/Keras
-- segmentation_models
-- Albumentations
-- OpenCV
-- NumPy
-- Matplotlib
-
-## License
-MIT License
