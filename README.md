@@ -1,6 +1,6 @@
 # Smoke Segmentation
 
-A deep learning project for smoke segmentation in images and videos using the U-Net model with a ResNet50 backbone, forked from [segmentation_models](https://github.com/qubvel/segmentation_models). Special thanks to the author of segmentation_models for their amazing work! The project supports training, inference, and visualization of smoke detection results.
+A deep learning project for smoke segmentation in images and videos using the U-Net model with a ResNet50 backbone, forked from [segmentation_models](https://github.com/qubvel/segmentation_models). Special thanks to the author for their amazing work! The project supports training, inference, and visualization of smoke detection results.
 
 ## Features
 - **Model**: U-Net with ResNet50 backbone for binary smoke segmentation.
