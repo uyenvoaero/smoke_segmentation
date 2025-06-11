@@ -1,0 +1,11 @@
+opencv-python
+numpy
+matplotlib
+albumentations
+tensorflow
+segmentation-models
+efficientnet
+keras
+tensorboard
+tensorflow-estimator
+protobuf
